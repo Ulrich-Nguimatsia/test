@@ -1,0 +1,15 @@
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.nav-link {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.card-img-overlay {
+    color: coral;
+}
